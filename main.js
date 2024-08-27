@@ -6,23 +6,12 @@
 
 
 
-
-
-
-
-
-
 // TASK-2 
 // 2. “1java2script3 5deve6lo4per” shu string orasidagi sonlarni 1 ta arreyga soling, 
 // so'zlarni boshqa bir stringa o’zlashtiring va return qiling 
 
 // import { str, seperateTheChracters } from "./18.2task.js";
 // console.log(seperateTheChracters(str));
-
-
-
-
-
 
 
 
@@ -37,22 +26,12 @@
 
 
 
-
-
-
-
-
 // TASK-4
 // 4. arrey ichida objectlar bor userdan input orqali qiymat olib arrey ichidagi object 
 // dan shu qiymatga teng bo’lgan obj topish 
 
 // import { arr, findTheCorrespondingValue } from "./18.4task.js";
 // console.log(findTheCorrespondingValue(arr));
-
-
-
-
-
 
 
 
@@ -66,22 +45,11 @@
 
 
 
-
-
-
-
-
 // TASK-6
 // 6. Arrey ichidagi objectlarni id ga ko’ra malumotlarini chiqaruvchi function
 
 // import { arr, takeTheObjectFromId } from "./18.6task.js";
 // console.log(takeTheObjectFromId(arr));
-
-
-
-
-
-
 
 
 

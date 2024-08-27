@@ -5,11 +5,11 @@
 let inputValue = prompt('Enter any info of the user');
 let arr = [
     {
-        name: 'Abdulaziz',
+        name: 'Akbar',
         id: 23733
     },
     {
-        name: 'Muhammadjon',
+        name: 'Soliyev',
         id: 23734
     }
 ];

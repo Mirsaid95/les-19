@@ -2,15 +2,15 @@
 
 let arr = [
     {
-        firstName: 'Abdulaziz',
+        firstName: 'Akbar',
         lastName: 'Ergashev',
         age: 18,
         nationality: 'Uzbekistan',
         id: 19111
     },
     {
-        firstname: 'Muhammadjon',
-        lastName: 'Shavkatov',
+        firstname: 'Sherzod',
+        lastName: 'Omonov',
         age: 18,
         nationality: 'Uzbekistan',
         id: 17917
